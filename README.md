@@ -1,4 +1,4 @@
-### Hi there 👋, I,m Sandy!
+### Hi there 👋, I,m <span style="color:blue">some Sandy<text</span>!
 
 <!--
 **sandyjayani/sandyjayani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
