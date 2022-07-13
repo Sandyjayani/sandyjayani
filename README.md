@@ -1,5 +1,5 @@
 ### Hi there 👋, I,m Sandy!
-[![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandyjayani)](https://github.com/Sandyjayani/github-readme-stats)
+[![Sandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandyjayani&show_icons=true&theme=dark)](https://github.com/Sandyjayani/github-readme-stats)
 <!--
 **sandyjayani/sandyjayani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
